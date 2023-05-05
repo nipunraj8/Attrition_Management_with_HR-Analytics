@@ -29,7 +29,7 @@ An interactive dashboard with visualizations of the attrition rates and related 
 
 A report summarizing the key insights and recommendations to address the high attrition rates, including actionable steps for HR and management to implement.
 
-![image](https://user-images.githubusercontent.com/121822594/236533063-14b33050-dac9-43ad-9e17-cc50f6898da5.png)
+![image](https://user-images.githubusercontent.com/121822594/236533222-a9d95fe3-46a4-4500-8e1e-67583e35c1d0.png)
 
 
 # Insights
