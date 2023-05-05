@@ -58,7 +58,7 @@ A report summarizing the key insights and recommendations to address the high at
 # Actionable Recommendation
 1. Develop strategies to retain employees in the life sciences and medical departments, as they have the highest attrition rates.
 2. Provide more opportunities for career growth and development for employees in the top 4 job roles with the highest attrition rates: Laboratory Technician, Sales Executive, Research Scientist, and Sales Representative.
-3. Review the compensation structure and work environment of employees in the Upto 5k salary slab to understand the factors contributing to the high attrition rate in this category.
+3. Offer competitive compensation and benefits packages to reduce the attrition rate in the lower salary slabs, especially the Upto 5k salary slab.
 4. Develop targeted retention strategies for employees who have completed 1 year, 2 years, and 5 years at the company, as they have the highest attrition rates.
 
 
