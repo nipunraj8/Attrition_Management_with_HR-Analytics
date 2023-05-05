@@ -35,8 +35,7 @@ A report summarizing the key insights and recommendations to address the high at
 # Insights
 1. The overall attrition rate in the company is 16.1%.
 
-2. The attrition rate varies across different categories:
-- Gender: There were 140 male and 79 female employees who left the company.
+2. The attrition rate varies across different categories:- Gender: There were 140 male and 79 female employees who left the company.
 - Education: Life sciences had the highest attrition rate at 38%, followed by medical at 27%, marketing at 15%, and technical department at 14%.
 - Salary slab: Upto 5k had the highest Attrition, accounting for 68.78% of the total attrition count. The lowest attrition rate was observed in the 15k+ salary slab.
 - Job role: The top 4 job roles with the highest attrition rates were Laboratory Technician, Sales Executive, Research Scientist, and Sales Representative.
