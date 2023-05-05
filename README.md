@@ -14,6 +14,8 @@ By analyzing the data through Power BI, the HR department can gain insights into
 # Methodology
 Collect and clean data related to employee attrition rates, gender, education, job role, salary, years at the company, age, and department.
 
+Create the required measures and conditional columns for analytics.
+
 Analyze the data using Power BI tools such as cards, slicers, and charts to identify patterns and insights related to attrition.
 
 Create a comprehensive Power BI dashboard to display the findings, including attrition rates by different factors, top 4 job roles with high attrition rates, and average employee age, salary, and years of experience.
@@ -21,11 +23,11 @@ Create a comprehensive Power BI dashboard to display the findings, including att
 Use the dashboard to identify the root causes of attrition and suggest measures to reduce it.
 
 # Deliverables
-A Power BI dashboard providing insights into attrition rates and related factors in the company.
+A clean and processed dataset for the HR analytics department.
 
-A report summarizing the findings and recommendations to address the high attrition rates.
+An interactive dashboard with visualizations of the attrition rates and related factors, including gender, education, job role, salary, years at the company, age, and department and KPIs (Key Performance Indicators) to HR department and other stakeholders to communicate the findings and recommendations.
 
-An interactive dashboard to HR department and other stakeholders to communicate the findings and recommendations.
+A report summarizing the key insights and recommendations to address the high attrition rates, including actionable steps for HR and management to implement.
 
 ![image](https://user-images.githubusercontent.com/121822594/236524978-9cc37f75-982e-4539-8b42-5962c2968db0.png)
 
