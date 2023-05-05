@@ -2,13 +2,12 @@
 The company is facing high attrition rates among its employees, which is impacting the overall productivity and profitability of the organization. The HR department wants to understand the root cause of the attrition and take necessary steps to reduce it.
 
 Questions to be answered through Power BI Dashboard:
-
-What is the overall attrition rate in the company?
-How does the attrition rate vary by gender, education, job role, salary slab, years at the company, and age?
-Which are the top 4 job roles with the highest attrition rates?
-How does the attrition rate vary across different departments - human resource, research and development, and sales?
-What is the average age, salary, and years of experience of employees in the company?
-What is the total number of employees in the organization and how does it vary by department?
+1. What is the overall attrition rate in the company?
+2. How does the attrition rate vary by gender, education, job role, salary slab, years at the company, and age?
+3. Which are the top 4 job roles with the highest attrition rates?
+4. How does the attrition rate vary across different departments - human resource, research and development, and sales?
+5. What is the average age, salary, and years of experience of employees in the company?
+6. What is the total number of employees in the organization and how does it vary by department?
 
 By analyzing the data through Power BI, the HR department can gain insights into the reasons for high attrition rates and take appropriate measures to address the issues. The slicer for filtering by department can help to identify which department is experiencing the highest attrition rates and take targeted actions to address the issue.
 
@@ -26,7 +25,7 @@ A Power BI dashboard providing insights into attrition rates and related factors
 
 A report summarizing the findings and recommendations to address the high attrition rates.
 
-A presentation to HR department and other stakeholders to communicate the findings and recommendations.
+An interactive dashboard to HR department and other stakeholders to communicate the findings and recommendations.
 
 ![image](https://user-images.githubusercontent.com/121822594/236524978-9cc37f75-982e-4539-8b42-5962c2968db0.png)
 
