@@ -29,7 +29,8 @@ An interactive dashboard with visualizations of the attrition rates and related 
 
 A report summarizing the key insights and recommendations to address the high attrition rates, including actionable steps for HR and management to implement.
 
-![image](https://user-images.githubusercontent.com/121822594/236524978-9cc37f75-982e-4539-8b42-5962c2968db0.png)
+![image](https://user-images.githubusercontent.com/121822594/236533063-14b33050-dac9-43ad-9e17-cc50f6898da5.png)
+
 
 # Insights
 1. The overall attrition rate in the company is 16.1%.
